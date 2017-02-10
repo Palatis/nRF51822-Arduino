@@ -1,0 +1,7 @@
+{
+    "description":"Arduino Wiring-based Framework (RedBearLab Core)",
+    "name":"framework-arduinonordicnrf51-redbearlab",
+    "system":"all",
+    "url":"https://github.com/Palatis/nRF51822-Arduino",
+    "version":"0.0.1"
+}
