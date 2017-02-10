@@ -1,0 +1,9 @@
+[submodule "system/ble"]
+	path = system/ble
+	url = https://github.com/ARMmbed/ble.git
+[submodule "system/ble-nRF51822"]
+	path = system/ble-nRF51822
+	url = https://github.com/ARMmbed/ble-nRF51822.git
+[submodule "system/mbed"]
+	path = system/mbed
+	url = https://github.com/mbedmicro/mbed.git
